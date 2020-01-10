@@ -1,2 +1,2 @@
-http://verci.ddns.net:81/,AutoActivate
+http://verci.ddns.net:81/,AutoActivate,XPR_Version=Tcp,Level=asinvoker,name=DefaultSwitch,version=v2.0.50727
 Date:00-00-2020
