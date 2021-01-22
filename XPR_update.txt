@@ -4,3 +4,8 @@ Type=LocalAutoActivate,gl_up=false
 XPR_Version=Tcp
 Level=asinvoker
 Date:00-00-2020
+address=auto
+6as2f2fasdqwqw2g5g2=5assa2as5wq2
+s2a82a8r=r2w829b2v1s
+r2w829b2v1s
+s2a82a8r
